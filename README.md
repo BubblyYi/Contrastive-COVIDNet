@@ -52,7 +52,10 @@ If you find this code and dataset useful, please cite in your research papers.
    title={Contrastive Cross-site Learning with Redesigned Net for COVID-19 CT Classification},
    journal={IEEE Journal of Biomedical and Health Informatics},
    DOI={10.1109/jbhi.2020.3023246},
-   year={2020}
+   year={2020},
+   volume={24},
+   number={10},
+   pages={2806-2813}
 }
 ```
 
